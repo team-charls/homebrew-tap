@@ -5,7 +5,6 @@ class Charls < Formula
   sha256 "bbf67d51446a98eb8fc98c9c6de49a2605c709d3a14ba39f09a09f8e57527099"
   license "BSD-3-Clause"
 
-
   depends_on "cmake" => :build
 
   def install
